@@ -1,6 +1,4 @@
-Haan. Neeche **direct copy-paste `README.md` code** hai. Isko apne GitHub profile repository ke `README.md` me paste kar sakte ho.
 
-````md
 <h1 align="center">Hi 👋, I'm Dinesh Gaikwad</h1>
 
 <h3 align="center">
