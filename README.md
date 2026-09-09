@@ -314,7 +314,7 @@ Cloud
 
 |  # | Repository   | Project                     | Duration | Skills              | Links                   |
 | -: | ------------ | --------------------------- | -------- | ------------------- | ----------------------- |
-| 01 | `project-01` | AI Web Application          | 1 Month  | Python, AI, React   | [GitHub](#) | [Live](#) |
+| 01 | `project-01` | Full Stack AI Engineering Master Platform          | 1 Month  | Python, AI, React ,node  | [GitHub]( https://github.com/dinesh-gaikwad/educareerverse) | [Live](https://educareerverse-1.onrender.com/) |
 | 02 | `project-02` | Full-Stack AI Assistant     | 1 Month  | Django, React, LLM  | [GitHub](#) | [Live](#) |
 | 03 | `project-03` | AI Document Analyzer        | 1 Month  | Python, NLP, AI     | [GitHub](#) | [Live](#) |
 | 04 | `project-04` | AI Resume Analyzer          | 1 Month  | Python, NLP, React  | [GitHub](#) | [Live](#) |
