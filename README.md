@@ -504,15 +504,17 @@ Learn
 | 09 | `devops` | proudly-awarded | [Verify](https://drive.google.com/file/d/1EViroOaYFqkQkSCo6-idwu7nhMhs7bPw/view?usp=sharing)  |
 | 10 | `AWS cloude tranig+intern` | aws-cloude | [Verify](https://drive.google.com/file/d/10eNSI1djdZshhDd8za7zw5M_VA5lxJxN/view?usp=sharing)  |
 | 11 | `data scince with py` | Cisco | [Verify](https://drive.google.com/file/d/1K325BPp8FMctQ6SjqoWtAtCGtprbgxXi/view?usp=sharing)  |
-| 12 | `Certification Name` | Provider | [Verify](#)  |
-| 13 | `Certification Name` | Provider | [Verify](#)  |
-| 14 | `Certification Name` | Provider | [Verify](#)  |
-| 15 | `Certification Name` | Provider | [Verify](#)  |
-| 16 | `Certification Name` | Provider | [Verify](#)  |
-| 17 | `Certification Name` | Provider | [Verify](#)  |
-| 18 | `Certification Name` | Provider | [Verify](#)  |
-| 19 | `Certification Name` | Provider | [Verify](#)  |
-| 20 | `Certification Name` | Provider | [Verify](#)  |
+| 12 | `java web devlopment` | study-section | [Verify](https://drive.google.com/file/d/15BDub-WLvMmCR4QNZ1hvab2C9jmSRJvT/view?usp=sharing)  |
+| 13 | `computer fundamental` | study-section | [Verify](https://drive.google.com/file/d/11KnWCwEdsPOmMfD5hXZJateoJfufh_iI/view?usp=sharing)  |
+| 14 | `full stack devlopment internship` | unifide-menter | [Verify](https://drive.google.com/file/d/1uZDEY-3ZPq4rI1NGednnvYcc5pdYi2H5/view?usp=sharing)  |
+| 15 | `data entry oprater` | Tata Motors Ltd. | [Verify](https://drive.google.com/file/d/1mOWwzXmu7Co6SHVDxZxllXEVG_zfIRxA/view?usp=sharing)  |
+| 16 | `spokan english coures` | learn-vern | [Verify](https://drive.google.com/file/d/1GakzRxSAWBINN9rshrMWP2xkCd51bWl4/view?usp=sharing)  |
+| 17 | `web devlopment coures+intern` | preserex | [Verify](https://drive.google.com/file/d/1-jyToIdgt8ApeR6BtpaYfGCc4Wp2xoZt/view?usp=sharing)  |
+| 18 | `full stack coures` | navi-tech | [Verify](https://drive.google.com/file/d/1DgY-eagy6gW7RC5qlRmDUO7QSqnOhNEQ/view?usp=sharing)  |
+| 19 | `web devlopment intern` | perserex | [Verify](https://drive.google.com/file/d/12De_gv0irBgCkMNfjESNa4Zslb9E5pX3/view?usp=sharing)  |
+| 20 | `full stack devlopment intern` | unifide-mentor | [Verify](https://drive.google.com/file/d/1ygkKUrezGKl6YtAtTvxHhWgLCofZ9szl/view?usp=sharing)  |
+| 21 | `legacy javascript in dsa v7` | freecodecamp.comr | [Verify](https://drive.google.com/file/d/1u0vIAF5Js8mz82ZKAJpF76W9rPeF1TcU/view?usp=sharing)  |
+
 
 ---
 
