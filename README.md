@@ -315,7 +315,7 @@ Cloud
 |  # | Repository   | Project                     | Duration | Skills              | Links                   |
 | -: | ------------ | --------------------------- | -------- | ------------------- | ----------------------- |
 | 01 | `project-01` | Full Stack AI Engineering Master Platform          | 1 Month  | Python, AI, React ,node  | [GitHub]( https://github.com/dinesh-gaikwad/educareerverse) | [Live](https://educareerverse-1.onrender.com/) |
-| 02 | `project-02` | Full-Stack AI Assistant     | 1 Month  | Neuro Arcade X  | [GitHub](https://github.com/dinesh-gaikwad/Full-stack-python-project-.git) | [Live](https://full-stack-python-project.onrender.com/) |
+| 02 | `project-02` |  Neuro Arcade X       | 1 Month  |python,react| [GitHub](https://github.com/dinesh-gaikwad/Full-stack-python-project-.git) | [Live](https://full-stack-python-project.onrender.com/) |
 | 03 | `project-03` | AI Document Analyzer        | 1 Month  | Python, NLP, AI     | [GitHub](#) | [Live](#) |
 | 04 | `project-04` | AI Resume Analyzer          | 1 Month  | Python, NLP, React  | [GitHub](#) | [Live](#) |
 | 05 | `project-05` | AI Interview Platform       | 1 Month  | LLM, API, React     | [GitHub](#) | [Live](#) |
