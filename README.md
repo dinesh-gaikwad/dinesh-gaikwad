@@ -312,7 +312,7 @@ Cloud
 
 > Each repository represents a major development project.
 
-|  # | Repository   | Project                     | Duration | Skills              | Links                   |
+|  # | Repository   | Project                     | Duration | Skills              | Gitlink |  live-link |                   |
 | -: | ------------ | --------------------------- | -------- | ------------------- | ----------------------- |
 | 01 | `project-01` | Full Stack AI Engineering Master Platform          | 1 Month  | Python, AI, React ,node  | [GitHub]( https://github.com/dinesh-gaikwad/educareerverse) | [Live](https://educareerverse-1.onrender.com/) |
 | 02 | `project-02` |  Neuro Arcade X       | 1 Month  |python,react| [GitHub](https://github.com/dinesh-gaikwad/Full-stack-python-project-.git) | [Live](https://full-stack-python-project.onrender.com/) |
