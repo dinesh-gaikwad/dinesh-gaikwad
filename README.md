@@ -316,8 +316,8 @@ Cloud
 | -: | ------------ | --------------------------- | -------- | ------------------- | ----------------------- |
 | 01 | `project-01` | Full Stack AI Engineering Master Platform          | 1 Month  | Python, AI, React ,node  | [GitHub]( https://github.com/dinesh-gaikwad/educareerverse) | [Live](https://educareerverse-1.onrender.com/) |
 | 02 | `project-02` |  Neuro Arcade X       | 1 Month  |python,react| [GitHub](https://github.com/dinesh-gaikwad/Full-stack-python-project-.git) | [Live](https://full-stack-python-project.onrender.com/) |
-| 03 | `project-03` | AI Document Analyzer        | 1 Month  | Python, NLP, AI     | [GitHub](#) | [Live](#) |
-| 04 | `project-04` | AI Resume Analyzer          | 1 Month  | Python, NLP, React  | [GitHub](#) | [Live](#) |
+| 03 | `project-03` | studysync.com        | 1 Month  | node.js, react.js,expres.js     | [GitHub](https://github.com/dinesh-gaikwad/studysync-ai.git) | [Live](https://studysync-ai-1.onrender.com/) |
+| 04 | `project-04` | indian-gamer-hub          | 1 Month  | node.js, React  | [GitHub](https://github.com/dinesh-gaikwad/indiangamehub.git) | [Live](https://indiangamehub.onrender.com/) |
 | 05 | `project-05` | AI Interview Platform       | 1 Month  | LLM, API, React     | [GitHub](#) | [Live](#) |
 | 06 | `project-06` | E-Commerce Platform         | 1 Month  | React, Django, SQL  | [GitHub](#) | [Live](#) |
 | 07 | `project-07` | Real-Time Chat App          | 1 Month  | React, WebSocket    | [GitHub](#) | [Live](#) |
