@@ -493,17 +493,17 @@ Learn
 
 |  # | Certification        | Provider | Verification |
 | -: | -------------------- | -------- | ------------ |
-| 01 | `Certification Name` | Provider | [Verify](#)  |
-| 02 | `Certification Name` | Provider | [Verify](#)  |
-| 03 | `Certification Name` | Provider | [Verify](#)  |
-| 04 | `Certification Name` | Provider | [Verify](#)  |
-| 05 | `Certification Name` | Provider | [Verify](#)  |
-| 06 | `Certification Name` | Provider | [Verify](#)  |
-| 07 | `Certification Name` | Provider | [Verify](#)  |
-| 08 | `Certification Name` | Provider | [Verify](#)  |
-| 09 | `Certification Name` | Provider | [Verify](#)  |
-| 10 | `Certification Name` | Provider | [Verify](#)  |
-| 11 | `Certification Name` | Provider | [Verify](#)  |
+| 01 | `Website Design and Development Internship` | internship-istudio | [Verify](https://drive.google.com/file/d/1QRVBaMoZbCJgU4cLZSdq0skWIMAYHAZT/view?usp=sharing)  |
+| 02 | `` | Provider | [Verify](#)  |
+| 03 | `WEBSITE DESIGN AND DEVELOPMENT INTERNSHIP AT` | istudio | [Verify](https://drive.google.com/file/d/1XqlH0lFWRf_CE3iOTajaCypBPMa1OoPI/view?usp=sharing)  |
+| 04 | `CSS code Genrater web app` | DIYinternship | [Verify](https://drive.google.com/file/d/1gT9-DCj1FvB342I-hU0-eiugMwjw59ki/view?usp=sharing)  |
+| 05 | `Intractive-princing_tables` | DIYinternship | [Verify](https://drive.google.com/file/d/1KNzeGvTot_uaBqWGeK6-S9DhxFrTQrs3/view?usp=sharing)  |
+| 06 | `google anylatics` | google | [Verify](https://drive.google.com/file/d/1qIKmyJvQ2LE5T_P8jChBshhlD1F9n6i_/view?usp=sharing)  |
+| 07 | `Machine learning with python` | proudly-awarded | [Verify](https://drive.google.com/file/d/1ClpHFxV0dIK84RKyofOHVOOaaxxyw9Rt/view?usp=sharing)  |
+| 08 | `Git & Github` |  proudly-awarded | [Verify](https://drive.google.com/file/d/1hX9nWfKHjUPBuslPYdi5w9AJgaDWbyXH/view?usp=sharing)  |
+| 09 | `devops` | proudly-awarded | [Verify](https://drive.google.com/file/d/1EViroOaYFqkQkSCo6-idwu7nhMhs7bPw/view?usp=sharing)  |
+| 10 | `AWS cloude tranig+intern` | aws-cloude | [Verify](https://drive.google.com/file/d/10eNSI1djdZshhDd8za7zw5M_VA5lxJxN/view?usp=sharing)  |
+| 11 | `data scince with py` | Cisco | [Verify](https://drive.google.com/file/d/1K325BPp8FMctQ6SjqoWtAtCGtprbgxXi/view?usp=sharing)  |
 | 12 | `Certification Name` | Provider | [Verify](#)  |
 | 13 | `Certification Name` | Provider | [Verify](#)  |
 | 14 | `Certification Name` | Provider | [Verify](#)  |
