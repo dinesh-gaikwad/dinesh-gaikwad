@@ -318,7 +318,7 @@ Cloud
 | 02 | `project-02` |  Neuro Arcade X       | 1 Month  |python,react| [GitHub](https://github.com/dinesh-gaikwad/Full-stack-python-project-.git) | [Live](https://full-stack-python-project.onrender.com/) |
 | 03 | `project-03` | studysync.com        | 1 Month  | node.js, react.js,expres.js     | [GitHub](https://github.com/dinesh-gaikwad/studysync-ai.git) | [Live](https://studysync-ai-1.onrender.com/) |
 | 04 | `project-04` | indian-gamer-hub          | 1 Month  | node.js, React  | [GitHub](https://github.com/dinesh-gaikwad/indiangamehub.git) | [Live](https://indiangamehub.onrender.com/) |
-| 05 | `project-05` | AI Interview Platform       | 1 Month  | LLM, API, React     | [GitHub](#) | [Live](#) |
+| 05 | `project-05` | budget-utilization-monitoring       | 1 Month  | raect.js,node.js,pyhton    | [GitHub](https://github.com/dineshgaikwad0503-ship-it/budget-utilization-monitoring.git) | [Live](https://budget-utilization-monitoring.onrender.com) |
 | 06 | `project-06` | E-Commerce Platform         | 1 Month  | React, Django, SQL  | [GitHub](#) | [Live](#) |
 | 07 | `project-07` | Real-Time Chat App          | 1 Month  | React, WebSocket    | [GitHub](#) | [Live](#) |
 | 08 | `project-08` | AI Content Generator        | 1 Month  | Python, LLM         | [GitHub](#) | [Live](#) |
