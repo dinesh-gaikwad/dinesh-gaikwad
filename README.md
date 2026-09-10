@@ -53,7 +53,7 @@ My engineering journey combines:
 
 <img src="https://img.shields.io/badge/Development%20Experience-15%2B%20Months-purple?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Internships-4-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Certifications-20-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Certifications-20%2B-red?style=for-the-badge" />
 <img src="https://img.shields.io/badge/BCS-76%25-green?style=for-the-badge" />
 
 </p>
@@ -99,7 +99,7 @@ My engineering journey combines:
 # 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,django,react,javascript,html,css,mysql,postgres,mongodb,azure,docker,kubernetes,git,github,linux,vscode&perline=9" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,django,react,javascript,html,css,mysql,postgres,mongodb,azure,docker,kubernetes,git,github,linux,vscode&perline=9" />
 </p>
 
 ### 💻 Programming
@@ -273,16 +273,6 @@ Production
 * ☁️ Cloud deployment
 * 🏗️ Production-oriented architecture
 
-### 📌 Project Stack
-
-| Layer      | Technology         |
-| ---------- | ------------------ |
-| Frontend   | React.js           |
-| Backend    | Django / Python    |
-| Database   | MySQL / PostgreSQL |
-| AI         | LLM / ML / RAG     |
-| Deployment | Docker / Cloud     |
-
 ---
 
 # 📦 Project Portfolio
@@ -425,6 +415,52 @@ Learn
 
 ---
 
+# 📜 Certifications
+
+|  # | Certification                             | Provider           | Verification                                                                                 |
+| -: | ----------------------------------------- | ------------------ | -------------------------------------------------------------------------------------------- |
+| 01 | Website Design and Development Internship | Internship-iStudio | [Verify](https://drive.google.com/file/d/1QRVBaMoZbCJgU4cLZSdq0skWIMAYHAZT/view?usp=sharing) |
+| 02 | Website Design and Development Internship | iStudio            | [Verify](https://drive.google.com/file/d/1XqlH0lFWRf_CE3iOTajaCypBPMa1OoPI/view?usp=sharing) |
+| 03 | CSS Code Generator Web App                | DIY Internship     | [Verify](https://drive.google.com/file/d/1gT9-DCj1FvB342I-hU0-eiugMwjw59ki/view?usp=sharing) |
+| 04 | Interactive Pricing Tables                | DIY Internship     | [Verify](https://drive.google.com/file/d/1KNzeGvTot_uaBqWGeK6-S9DhxFrTQrs3/view?usp=sharing) |
+| 05 | Google Analytics                          | Google             | [Verify](https://drive.google.com/file/d/1qIKmyJvQ2LE5T_P8jChBshhlD1F9n6i_/view?usp=sharing) |
+| 06 | Machine Learning with Python              | Proudly Awarded    | [Verify](https://drive.google.com/file/d/1ClpHFxV0dIK84RKyofOHVOOaaxxyw9Rt/view?usp=sharing) |
+| 07 | Git & GitHub                              | Proudly Awarded    | [Verify](https://drive.google.com/file/d/1hX9nWfKHjUPBuslPYdi5w9AJgaDWbyXH/view?usp=sharing) |
+| 08 | DevOps                                    | Proudly Awarded    | [Verify](https://drive.google.com/file/d/1EViroOaYFqkQkSCo6-idwu7nhMhs7bPw/view?usp=sharing) |
+| 09 | AWS Cloud Training + Internship           | AWS Cloud          | [Verify](https://drive.google.com/file/d/10eNSI1djdZshhDd8za7zw5M_VA5lxJxN/view?usp=sharing) |
+| 10 | Data Science with Python                  | Cisco              | [Verify](https://drive.google.com/file/d/1K325BPp8FMctQ6SjqoWtAtCGtprbgxXi/view?usp=sharing) |
+| 11 | Java Web Development                      | Study Section      | [Verify](https://drive.google.com/file/d/15BDub-WLvMmCR4QNZ1hvab2C9jmSRJvT/view?usp=sharing) |
+| 12 | Computer Fundamentals                     | Study Section      | [Verify](https://drive.google.com/file/d/11KnWCwEdsPOmMfD5hXZJateoJfufh_iI/view?usp=sharing) |
+| 13 | Full-Stack Development Internship         | Unified Mentor     | [Verify](https://drive.google.com/file/d/1uZDEY-3ZPq4rI1NGednnvYcc5pdYi2H5/view?usp=sharing) |
+| 14 | Data Entry Operator                       | Tata Motors Ltd.   | [Verify](https://drive.google.com/file/d/1mOWwzXmu7Co6SHVDxZxllXEVG_zfIRxA/view?usp=sharing) |
+| 15 | Spoken English Course                     | LearnVern          | [Verify](https://drive.google.com/file/d/1GakzRxSAWBINN9rshrMWP2xkCd51bWl4/view?usp=sharing) |
+| 16 | Web Development Course + Internship       | Persevex           | [Verify](https://drive.google.com/file/d/1-jyToIdgt8ApeR6BtpaYfGCc4Wp2xoZt/view?usp=sharing) |
+| 17 | Full-Stack Course                         | Navi-Tech          | [Verify](https://drive.google.com/file/d/1DgY-eagy6gW7RC5qlRmDUO7QSqnOhNEQ/view?usp=sharing) |
+| 18 | Web Development Internship                | Persevex           | [Verify](https://drive.google.com/file/d/12De_gv0irBgCkMNfjESNa4Zslb9E5pX3/view?usp=sharing) |
+| 19 | Full-Stack Development Internship         | Unified Mentor     | [Verify](https://drive.google.com/file/d/1ygkKUrezGKl6YtAtTvxHhWgLCofZ9szl/view?usp=sharing) |
+| 20 | Legacy JavaScript in DSA v7               | freeCodeCamp       | [Verify](https://drive.google.com/file/d/1u0vIAF5Js8mz82ZKAJpF76W9rPeF1TcU/view?usp=sharing) |
+
+> **Note:** The source file states 20+ certifications, while the detailed table provides 20 identifiable certificate entries.
+
+---
+
+# 🎓 Education
+
+## Bachelor of Computer Science — BCS
+
+**VNM College | BAMU**
+
+| Detail         | Information                  |
+| -------------- | ---------------------------- |
+| Degree         | Bachelor of Computer Science |
+| College        | VNM College                  |
+| University     | BAMU                         |
+| Duration       | 2023 – 2026                  |
+| Graduation     | 2026                         |
+| Academic Score | **76%**                      |
+
+---
+
 # 📚 Currently Learning
 
 ```text
@@ -463,37 +499,31 @@ Production AI Engineering
 
 ---
 
-# 💡 Engineering Philosophy
-
-> **Discipline + Problem Solving + Real Projects + System Thinking = Engineering Growth**
+# 🏆 What I Bring
 
 ```text
-LEARN
-  ↓
-BUILD
-  ↓
-BREAK
-  ↓
-DEBUG
-  ↓
-OPTIMIZE
-  ↓
-TEST
-  ↓
-DEPLOY
-  ↓
-DOCUMENT
-  ↓
-REPEAT
+Problem Solving
+      +
+Full-Stack Development
+      +
+Backend Engineering
+      +
+Artificial Intelligence
+      +
+Database Engineering
+      +
+Cloud / DevOps
+      +
+System Thinking
+      =
+FULL-STACK AI ENGINEERING
 ```
 
 ---
 
 # 👀 For Recruiters
 
-Don't judge the profile only by numbers.
-
-Look at the complete engineering journey:
+My profile represents an engineering journey across:
 
 ```text
               620+ DSA PROBLEMS
@@ -523,9 +553,35 @@ Look at the complete engineering journey:
               FULL-STACK AI ENGINEER
 ```
 
-### 🔥 What I Bring
+### 🔥 Core Strengths
 
 **Problem Solving + Full-Stack Development + Backend Engineering + AI + System Thinking**
+
+---
+
+# 💡 Engineering Philosophy
+
+> **Discipline + Problem Solving + Real Projects + System Thinking = Engineering Growth**
+
+```text
+LEARN
+  ↓
+BUILD
+  ↓
+BREAK
+  ↓
+DEBUG
+  ↓
+OPTIMIZE
+  ↓
+TEST
+  ↓
+DEPLOY
+  ↓
+DOCUMENT
+  ↓
+REPEAT
+```
 
 ---
 
