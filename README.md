@@ -289,18 +289,8 @@ Production
 | 08 | **mathchat-ai**          | flask,docker,react               | 1 Month  | [GitHub](https://github.com/dinesh-gaikwad/task-managent-app.git)                                                                              | [Live](https://mathchat-ai-frontend.onrender.com/)                                                   |
 | 09 | *ai-multitasking-platform**          | Python, ML ,ai,react.render,docker                | 1 Month  | [GitHub](https://github.com/dinesh-gaikwad/maltiplatform-ai.git)                                                                              | [Live](https://maltiplatform-ai-1.onrender.com/)                                                   |
 | 10 | **codingtyping**         | html,css,js             | 1 Month  | [GitHub](https://github.com/dinesh-gaikwad/codetyping)                                                                              | [Live](https://codetyping.onrender.com)                                                   |
-| 11 | **Authentication Platform**       | JWT, RBAC, Django          | 1 Month  | [GitHub](#)                                                                              | [Live](#)                                                   |
-| 12 | **Developer Productivity Tool**   | Python, APIs               | 1 Month  | [GitHub](#)                                                                              | [Live](#)                                                   |
-| 13 | **RAG Knowledge System**          | LLM, RAG, Vector DB        | 1 Month  | [GitHub](#)                                                                              | [Live](#)                                                   |
-| 14 | **Intelligent Search Engine**     | NLP, Python                | 1 Month  | [GitHub](#)                                                                              | [Live](#)                                                   |
-| 15 | **Analytics Dashboard**           | React, Python              | 1 Month  | [GitHub](#)                                                                              | [Live](#)                                                   |
-| 16 | **AI Automation Platform**        | Python, AI, APIs           | 1 Month  | [GitHub](#)                                                                              | [Live](#)                                                   |
-| 17 | **Java Backend System**           | Java, REST, SQL            | 1 Month  | [GitHub](#)                                                                              | [Live](#)                                                   |
-| 18 | **C++ Algorithm Project**         | C++, DSA                   | 1 Month  | [GitHub](#)                                                                              | [Live](#)                                                   |
-| 19 | **Cloud AI Application**          | Docker, Cloud, AI          | 1 Month  | [GitHub](#)                                                                              | [Live](#)                                                   |
-| 20 | **AI Data Pipeline**              | Python, ETL, AI            | 1 Month  | [GitHub](#)                                                                              | [Live](#)                                                   |
-| 21 | **Production AI System**          | Full Stack, AI             | 1 Month  | [GitHub](#)                                                                              | [Live](#)                                                   |
-| 22 | **AI Engineering Capstone**       | AI, React, Cloud           | 1 Month  | [GitHub](#)                                                                              | [Live](#)                                                   |
+| 11 | **Enterskill-Hub**       | react,django,docker,render,postgresql          | 1 Month  | [GitHub](https://enterskill-hub-v2.onrender.com)                                                                              | [Live](https://enterskill-hub-v2.onrender.com)                                                   |
+
 
 ---
 
